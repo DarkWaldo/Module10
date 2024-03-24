@@ -31,3 +31,4 @@ C:\Users\Connor\As10\Assignment10\obj\Debug\net8.0\refint\Assignment10.dll
 C:\Users\Connor\As10\Assignment10\obj\Debug\net8.0\Assignment10.pdb
 C:\Users\Connor\As10\Assignment10\obj\Debug\net8.0\Assignment10.genruntimeconfig.cache
 C:\Users\Connor\As10\Assignment10\obj\Debug\net8.0\ref\Assignment10.dll
+C:\Users\Connor\As10\Assignment10\obj\Debug\net8.0\Assignment10.sourcelink.json

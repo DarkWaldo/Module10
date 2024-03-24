@@ -11,7 +11,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+//This returns my name 
 app.MapGet("/myname", () => new { Name = "Connor" });
 
 app.Run();
